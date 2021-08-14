@@ -1,0 +1,1 @@
+This repo is a collection of react projects that I personally like, and to be used for miscellaneous purposes in the future.
